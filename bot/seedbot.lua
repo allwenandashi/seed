@@ -236,30 +236,15 @@ function create_config( )
     },
     sudo_users = {260871317},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v4
-An advanced administration bot based on TG-CLI written in Lua
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@POTUS [Developer]
-@seyedan25 [Manager]
-@aRandomStranger [Admin]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
-
-Our website 
-http://teleseed.seedteam.org/
+    about_text = [[ 😎 telegram tg 😎
+💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
+❗️Sudo Users
+@over_type [Founder,Developer,Manager]
+Special Thanks ⬇️
+AmirHo3inf
+And All My Friends :D
+id bot: @TG_TG
+Copyright © Ashi
 ]],
     help_text_realm = [[
 Realm Commands:
