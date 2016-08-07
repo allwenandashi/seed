@@ -239,7 +239,7 @@ function create_config( )
     about_text = [[ 😎 telegram tg 😎
 💠An advence Telegram Bot Based On Lua And Dev By Ashi💠
 ❗️Sudo Users
-@over_type [Founder,Developer,Manager]
+@KING_OF_KABOOS [Founder,Developer,Manager]
 Special Thanks ⬇️
 AmirHo3inf
 And All My Friends :D
